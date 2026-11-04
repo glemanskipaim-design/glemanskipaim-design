@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Estudante de tecnologia na **Setrem**. Gosto de construir ferramentas que resolvem problemas reais,
+Estudante de Engenharia de Computação na **Setrem**. Gosto de construir ferramentas que resolvem problemas reais,
 de aplicações web com dados rastreáveis a utilitários nativos para Windows.
 
 **Stack:** Java · Quarkus · Spring · TypeScript · Angular · Node.js · C++ (Win32/WinRT) · Python · PostgreSQL · Docker
