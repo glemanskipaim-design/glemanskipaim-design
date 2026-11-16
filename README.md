@@ -1,4 +1,3 @@
-### Olá 👋
 
 Estudante de Engenharia de Computação na **Setrem**. Gosto de construir ferramentas que resolvem problemas reais,
 de aplicações web com dados rastreáveis a utilitários nativos para Windows.
